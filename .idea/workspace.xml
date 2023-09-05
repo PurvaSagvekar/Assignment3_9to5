@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="836f4fc4-ac4a-469f-9151-b3028f6a7e02" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/9to5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/9to5.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="836f4fc4-ac4a-469f-9151-b3028f6a7e02" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +36,7 @@
       <updated>1691611913438</updated>
       <workItem from="1691611916745" duration="3000" />
       <workItem from="1692229972990" duration="16000" />
+      <workItem from="1693935343054" duration="8000" />
     </task>
     <servers />
   </component>
